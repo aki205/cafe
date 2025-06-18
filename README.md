@@ -1,10 +1,10 @@
 # CAFÉ HIBI - 架空のカフェ紹介サイト
 
-架空のカフェ「CAFÉ HIBI」のウェブサイトです。
+アルバイト応募用に作成した、架空のカフェ「CAFÉ HIBI」のウェブサイトです。
 
 ## サイトURL (GitHub Pages)
 
-[https://github.com/aki205/cafe.git]
+[https://aki205.github.io/cafe/](https://aki205.github.io/cafe/)
 
 ## こだわった点・工夫した点
 
